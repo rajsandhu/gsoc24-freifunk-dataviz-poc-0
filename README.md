@@ -7,7 +7,7 @@ For now, to see functional files, ignore the ones with "influxdb" in their names
 *directions:*
 
 - install python
-- make a .env file for "sum_freifunk_nodes_influxdb_v0.py"
+- make a .env file for "sum_freifunk_nodes_v0.py"
 - run the file "sum_freifunk_nodes_v0.py"
 
 *background:*
