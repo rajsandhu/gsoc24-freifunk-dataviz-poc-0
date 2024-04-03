@@ -5,7 +5,7 @@ It's a python script that ingests Freifunk JSON files and does some very simple 
 *directions:*
 
 - install python
-- run the file "simple-influxdb-query-0.py"
+- run the file "sum_freifunk_nodes_influxdb_v0.py"
 
 *background:*
 
